@@ -36,9 +36,9 @@ The main dataset (`Employee Data`) has the following columns:
 1.	Download or clone the repository.
 2.	Open GenTech.xlsx in Microsoft Excel.
 3.	Navigate through:
-o	Employee Data tab to view/edit raw data
-o	Pivot Summaries tab for structured summaries
-o	Dashboard tab for visual insights
+  - o	Employee Data tab to view/edit raw data
+  - o	Pivot Summaries tab for structured summaries
+  - o	Dashboard tab for visual insights
 
 ## Dashboard
 <img width="1278" height="1293" alt="GenTech Dashboard" src="https://github.com/user-attachments/assets/6dc16083-cee2-4432-a8ea-37bcc7b75a78" />
